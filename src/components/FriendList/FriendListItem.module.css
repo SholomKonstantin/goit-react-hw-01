@@ -1,0 +1,14 @@
+.friendavatar {
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+.friendname {
+  font-size: 20px;
+}
+.friendisonline {
+  font-size: 16px;
+  color: #377e22;
+}
+.friendnotonline {
+  color: #ee5e52;
+}

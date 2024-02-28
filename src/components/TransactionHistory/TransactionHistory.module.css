@@ -1,0 +1,21 @@
+.transtable {
+  border-collapse: collapse;
+  border: 1px solid #000;
+  width: 100%;
+  max-width: 1060px;
+  margin: 0 auto;
+  margin-top: 60px;
+}
+.transtable tr:nth-child(even) {
+  background-color: #d3d3d3;
+}
+.transtable th {
+  border: 1px solid #000;
+  background: #2a2a2a;
+  color: #fff;
+  padding: 6px;
+  width: 33%;
+}
+.transtable td {
+  border: 1px solid #000;
+}
